@@ -1,12 +1,12 @@
 {
-  "name": "bootstrap-theme-themestrap-sample",
+  "name": "bootstrap-theme-yantranet",
   "version": "0.0.1",
   "private": true,
-  "author": "Your Name",
+  "author": "Pradeep Varma",
   "main": "dist/bootstrap.css",
   "themestrap": {
-    "name": "Themestrap Sample",
-    "repo": "https://github.com/divshot/themestrap"
+    "name": "Yantranet Theme",
+    "repo": "https://github.com/pradeep122/themestrap-yantranet.git"
   },
   "ignore": [
     "**/.*",
@@ -16,6 +16,6 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap":"3.0.0"
+    "bootstrap":"3.0.1"
   }
 }
