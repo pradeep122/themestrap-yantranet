@@ -1,6 +1,10 @@
 {
-  "name": "themestrap",
+  "name": "themestrap-yantranet",
   "version": "0.3.0",
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/pradeep122/bootstrap-theme-yantranet"
+  },
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-contrib-less": "~0.6.4",
