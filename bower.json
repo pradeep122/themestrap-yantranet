@@ -6,7 +6,7 @@
   "main": "dist/bootstrap.css",
   "themestrap": {
     "name": "Yantranet Theme",
-    "repo": "https://github.com/pradeep122/bootstrap-theme-yantranet"
+    "repo": "https://github.com/pradeep122/themestrap-yantranet.git"
   },
   "ignore": [
     "**/.*",

@@ -3,7 +3,7 @@
   "version": "0.3.0",
   "repository" : { 
     "type" : "git",
-    "url" : "https://github.com/pradeep122/bootstrap-theme-yantranet"
+    "url" : "https://github.com/pradeep122/themestrap-yantranet.git"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
